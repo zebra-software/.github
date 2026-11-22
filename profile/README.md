@@ -1,6 +1,6 @@
 # 🦓 Zebra Software
 
-### Free Useful Software For Linux & Android
+### Free and open-source software for Linux & Android
 
 Easy to use, open-source programs for your desktop and your phone.
 You shouldn't have to pay for expensive software just for everyday use.
