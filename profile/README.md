@@ -15,4 +15,4 @@ Found a bug or have an idea? Open an issue or a pull request on the project's re
 
 
 
-<sub>Zebra Software · est. 2011
+<sub>Zebra Software · est. 2011</sub>
